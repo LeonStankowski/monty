@@ -1,0 +1,23 @@
+{
+    "name": "monty",
+    "description": "In memory MongoDB caching system for Node.js",
+    "version": "0.0.1",
+    "keywords": [
+        "mongo",
+        "mongodb",
+        "caching"
+    ],
+    "author": {
+        "name": "Leon Stankowski",
+        "email": "leon_monty@stankowski.com",
+        "url": "http://stankowski.com"
+    },
+    "main": "monty",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LeonStankowski/monty.git"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
